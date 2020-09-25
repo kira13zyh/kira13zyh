@@ -1,5 +1,5 @@
 ### Hi, I am Emily 👋
-<img align="right" src="illustration.jpg" height="100">
+<img align="right" src="illustration.jpg" height="300">
 
 I am an app developer and designer. I enjoy designing + building softwares. I have helped people build iOS + Android compatible apps in React Native, migrating their blogs from Tumblr to Github Pages, and building blogs in Next.js! I love researching skincare products, making chain jewelry, and cooking yummy plant-based foods.
 
