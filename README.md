@@ -8,3 +8,4 @@ I am an app developer and designer. I enjoy designing + building softwares. I ha
 - 🤔 I’m looking for help with finding a gig/job
 - 💬 Ask me about building apps with react native and expo
 - 📫 How to reach me: kira13zyh@berkeley.edu
+<img align="right" src="illustration.jpg">
