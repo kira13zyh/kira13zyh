@@ -6,7 +6,6 @@ I am an app developer and designer. I enjoy designing + building softwares. I ha
 - 🔭 I’m currently working on a functional skincare visualization tool!
 - 🌱 I’m currently learning to illustrate on Procreate
 - 👯 I’m looking to collaborate on an ARKit project
-- 🤔 I’m **looking for a software engineering job!**
 - 💬 Ask me about building apps with react native and expo
 - 📫 How to reach me: kira13zyh@berkeley.edu
 
